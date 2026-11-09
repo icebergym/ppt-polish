@@ -1,16 +1,18 @@
 {
   "schema_version": 1,
   "skill": "ppt-polish",
-  "display_name": "PPT 优化",
+  "display_name": "云霆的lygoPPT",
   "version": "1.1.0",
   "released_on": "2026-11-09",
   "release_status": "final",
-  "snapshot_revision": "public",
+  "snapshot_revision": "public-name-notes",
   "distribution_profile": "public-tool",
   "changes": [
     "通用演示稿布局、信息层级与跨页一致性规则",
     "默认保真美化与明确授权的内容升级",
     "MiSans检查、官方下载安装与失败阻断",
-    "内容比对、版本快照及公开文件检查"
+    "内容比对、版本快照及公开文件检查",
+    "左下角默认不加注释，仅在公开数据引用或必要解释时使用",
+    "显示名称为云霆的lygoPPT"
   ]
 }
