@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-11-09",
+  "official_page": "https://hyperos.mi.com/font/zh/download/",
+  "archive_url": "https://hyperos.mi.com/font-download/MiSans.zip",
+  "archive_bytes": 227880072,
+  "archive_sha256": "b6aa1fc827035922612df8edf36e5609bca1c5441e25cd57572204569b7b81d9",
+  "license_url": "https://hyperos.mi.com/font-download/MiSans%E5%AD%97%E4%BD%93%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE.pdf",
+  "license_bytes": 79535,
+  "license_sha256": "4a93a27cd2bd81b3b5ecfd0a853144a876fa26938a93a68443c67d74172fcb86",
+  "fonts": [
+    {
+      "postscript_name": "MiSans-Bold",
+      "archive_member": "MiSans/ttf/MiSans-Bold.ttf",
+      "sha256": "d0c1d327952ed935e86fb78a97a6c182b44f2c2b08777326786b1f8b26d1fe1e"
+    },
+    {
+      "postscript_name": "MiSans-Demibold",
+      "archive_member": "MiSans/ttf/MiSans-Demibold.ttf",
+      "sha256": "209bc982dda59dc05f6dda1c6145b91dea8fd24a28f903fe7f009313b06dc8e3"
+    },
+    {
+      "postscript_name": "MiSans-ExtraLight",
+      "archive_member": "MiSans/ttf/MiSans-ExtraLight.ttf",
+      "sha256": "319cfec6bb7ba04603ce68af95fbbe0dcdbbf415c26ec66bfd000c354cb51e5b"
+    },
+    {
+      "postscript_name": "MiSans-Heavy",
+      "archive_member": "MiSans/ttf/MiSans-Heavy.ttf",
+      "sha256": "7e44da09901d804c32be8770cf6ae37e68f63868d6757e1554a26e6ca589aa48"
+    },
+    {
+      "postscript_name": "MiSans-Light",
+      "archive_member": "MiSans/ttf/MiSans-Light.ttf",
+      "sha256": "5c306154f81ca5888cd517c16493a9ecc7561deb0b7b449d59fc61e8b41021f0"
+    },
+    {
+      "postscript_name": "MiSans-Medium",
+      "archive_member": "MiSans/ttf/MiSans-Medium.ttf",
+      "sha256": "b03e98374e971594b0b7a9706d0704241f76e1b88556cdda79c5039ef8a638d1"
+    },
+    {
+      "postscript_name": "MiSans-Normal",
+      "archive_member": "MiSans/ttf/MiSans-Normal.ttf",
+      "sha256": "13c51014d607517fcc8389a1ac68a0b53926e46bd4946462f47e7c0161fe629a"
+    },
+    {
+      "postscript_name": "MiSans-Regular",
+      "archive_member": "MiSans/ttf/MiSans-Regular.ttf",
+      "sha256": "9c120f0a849bc0aa5048daae2a3c0f6eecd828b5b33fce682a9622833f5feea6"
+    },
+    {
+      "postscript_name": "MiSans-Semibold",
+      "archive_member": "MiSans/ttf/MiSans-Semibold.ttf",
+      "sha256": "77c23f31ae124867778344970155a0c8d34a89897dedaab81aeee82ff00a4ce6"
+    },
+    {
+      "postscript_name": "MiSans-Thin",
+      "archive_member": "MiSans/ttf/MiSans-Thin.ttf",
+      "sha256": "d2fd126697ad941ab33977de3ec6bfba3324c1d9c52f7f4105b665630bec0cbe"
+    }
+  ]
+}

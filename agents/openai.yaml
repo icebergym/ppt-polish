@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 优化"
+  short_description: "制作与优化可编辑演示稿，支持保真美化、内容升级与交付检查"
+  default_prompt: "使用 $ppt-polish 处理这次 PPT；优化已有材料时默认保真美化，保留文字、数据及当前设计约束。"
